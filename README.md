@@ -1,4 +1,4 @@
-# OpenBootcamp-2.EjerciociosTema4
+# OpenBootcamp-2.EjerciciosTema4
 Este es el segundo ejercicio de OB, del curso de introducción a la programación en el cual se pide lo siguiente.
 
 En este ejercicio practicarás las estructuras de control, para ello deberás crear:
